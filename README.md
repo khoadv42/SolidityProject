@@ -10,4 +10,7 @@
 #3stage2: create compile
 
 
+product: my contract address is: 0xe75284691039f52Cb135dc8AFACCE832DF43e723
+
+
 <!-- 0.8.21 -->
